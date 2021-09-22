@@ -1,3 +1,3 @@
 # bryanzhou.github.io
 
-This is GitHub page.
+This is my GitHub page.
