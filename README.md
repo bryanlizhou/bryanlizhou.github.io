@@ -1,3 +1,3 @@
-BryanLiZhou.github.io
+bryanlizhou.github.io
 
 This is my GitHub page.
